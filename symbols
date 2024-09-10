@@ -1,96 +1,96 @@
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD10doRegisterERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD10unRegisterERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD10unregisterERK7QStringS2_
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD11qt_metacallEN11QMetaObject4CallEiPPv
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD11qt_metacastEPKc
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD11setInactiveERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD11setShortcutERK5QListI7QStringERKS0_IiEj
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD15setShortcutKeysERK5QListI7QStringERKS0_I12QKeySequenceEj
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD18setForeignShortcutERK5QListI7QStringERKS0_IiE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD20blockGlobalShortcutsEb
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD20yourShortcutsChangedERK5QListI7QStringERKS0_I12QKeySequenceE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD22setForeignShortcutKeysERK5QListI7QStringERKS0_I12QKeySequenceE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD22yourShortcutGotChangedERK5QListI7QStringERKS0_IiE
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD29activateGlobalShortcutContextERK7QStringS2_
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelD4initEv
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelDC1EP7QObject
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelDC2EP7QObject
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelDD0Ev
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelDD1Ev
-libKGlobalAccelD.so.0:_ZN13KGlobalAccelDD2Ev
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface10keyPressedEi
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface10ungrabKeysEv
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface11keyReleasedEi
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface11qt_metacallEN11QMetaObject4CallEiPPv
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface11qt_metacastEPKc
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface11setRegistryEP23GlobalShortcutsRegistry
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface13axisTriggeredEi
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface14pointerPressedE6QFlagsIN2Qt11MouseButtonEE
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterface8grabKeysEv
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterfaceC1EP7QObject
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterfaceC2EP7QObject
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterfaceD0Ev
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterfaceD1Ev
-libKGlobalAccelD.so.0:_ZN21KGlobalAccelInterfaceD2Ev
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry10keyPressedEi
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry10processKeyEi
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry10ungrabKeysEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry11keyReleasedEi
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry11qt_metacallEN11QMetaObject4CallEiPPv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry11qt_metacastEPKc
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry11registerKeyERK12QKeySequenceP14GlobalShortcut
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry11setDBusPathERK15QDBusObjectPath
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry12getComponentERK7QString
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry12loadSettingsEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry13axisTriggeredEi
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry13migrateConfigEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry13unregisterKeyERK12QKeySequenceP14GlobalShortcut
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry13writeSettingsEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry14pointerPressedE6QFlagsIN2Qt11MouseButtonEE
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry15createComponentERK7QStringS2_
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry15migrateKHotkeysEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry15refreshServicesEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry17activateShortcutsEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry17registerComponentESt10unique_ptrI9ComponentPFvPS1_EE
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry19deactivateShortcutsEb
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry19unregisterComponentEP9Component
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry23detectAppsWithShortcutsEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry23scheduleRefreshServicesEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry28createServiceActionComponentE28QExplicitlySharedDataPointerI8KServiceE
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry28createServiceActionComponentERK7QString
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry4selfEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry5clearEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistry8grabKeysEv
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistryC1Ev
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistryC2Ev
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistryD0Ev
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistryD1Ev
-libKGlobalAccelD.so.0:_ZN23GlobalShortcutsRegistryD2Ev
-libKGlobalAccelD.so.0:_ZN5Utils10reverseKeyERK12QKeySequence
-libKGlobalAccelD.so.0:_ZN5Utils14matchSequencesERK12QKeySequenceRK5QListIS0_E
-libKGlobalAccelD.so.0:_ZN5Utils17normalizeSequenceERK12QKeySequence
-libKGlobalAccelD.so.0:_ZN5Utils7cropKeyERK12QKeySequencei
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD10actionListERK12QKeySequence
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD10metaObjectEv
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD12getComponentERK7QString
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD12shortcutKeysERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD13allComponentsEv
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD15defaultShortcutERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD17allMainComponentsEv
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD19defaultShortcutKeysERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD20globalShortcutsByKeyERK12QKeySequenceN12KGlobalAccel9MatchTypeE
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD21scheduleWriteSettingsEv
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD22allActionsForComponentERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD23getGlobalShortcutsByKeyEi
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD23globalShortcutAvailableERK12QKeySequenceRK7QString
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD25isGlobalShortcutAvailableEiRK7QString
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD6actionEi
-libKGlobalAccelD.so.0:_ZNK13KGlobalAccelD8shortcutERK5QListI7QStringE
-libKGlobalAccelD.so.0:_ZNK21KGlobalAccelInterface10metaObjectEv
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry10metaObjectEv
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry16getShortcutByKeyERK12QKeySequenceN12KGlobalAccel9MatchTypeE
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry17allComponentNamesEv
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry17getShortcutsByKeyERK12QKeySequenceN12KGlobalAccel9MatchTypeE
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry19componentsDbusPathsEv
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry19isShortcutAvailableERK12QKeySequenceRK7QStringS5_
-libKGlobalAccelD.so.0:_ZNK23GlobalShortcutsRegistry8dbusPathEv
+libKGlobalAccelD.so.0:KGlobalAccelD::doRegister(QList<QString> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::unRegister(QList<QString> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::unregister(QString const&, QString const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::qt_metacall(QMetaObject::Call, int, void**)
+libKGlobalAccelD.so.0:KGlobalAccelD::qt_metacast(char const*)
+libKGlobalAccelD.so.0:KGlobalAccelD::setInactive(QList<QString> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::setShortcut(QList<QString> const&, QList<int> const&, unsigned int)
+libKGlobalAccelD.so.0:KGlobalAccelD::setShortcutKeys(QList<QString> const&, QList<QKeySequence> const&, unsigned int)
+libKGlobalAccelD.so.0:KGlobalAccelD::setForeignShortcut(QList<QString> const&, QList<int> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::blockGlobalShortcuts(bool)
+libKGlobalAccelD.so.0:KGlobalAccelD::yourShortcutsChanged(QList<QString> const&, QList<QKeySequence> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::setForeignShortcutKeys(QList<QString> const&, QList<QKeySequence> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::yourShortcutGotChanged(QList<QString> const&, QList<int> const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::activateGlobalShortcutContext(QString const&, QString const&)
+libKGlobalAccelD.so.0:KGlobalAccelD::init()
+libKGlobalAccelD.so.0:KGlobalAccelD::KGlobalAccelD(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelD::KGlobalAccelD(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
+libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
+libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::keyPressed(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::ungrabKeys()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::keyReleased(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::qt_metacall(QMetaObject::Call, int, void**)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::qt_metacast(char const*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::setRegistry(GlobalShortcutsRegistry*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::axisTriggered(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::pointerPressed(QFlags<Qt::MouseButton>)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::grabKeys()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::KGlobalAccelInterface(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::KGlobalAccelInterface(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyPressed(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::processKey(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::ungrabKeys()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyReleased(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::qt_metacall(QMetaObject::Call, int, void**)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::qt_metacast(char const*)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::registerKey(QKeySequence const&, GlobalShortcut*)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::setDBusPath(QDBusObjectPath const&)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getComponent(QString const&)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::loadSettings()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::axisTriggered(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateConfig()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::unregisterKey(QKeySequence const&, GlobalShortcut*)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::writeSettings()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::pointerPressed(QFlags<Qt::MouseButton>)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createComponent(QString const&, QString const&)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateKHotkeys()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::refreshServices()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::activateShortcuts()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::registerComponent(std::unique_ptr<Component, void (*)(Component*)>)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::deactivateShortcuts(bool)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::unregisterComponent(Component*)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::detectAppsWithShortcuts()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::scheduleRefreshServices()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createServiceActionComponent(QExplicitlySharedDataPointer<KService>)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createServiceActionComponent(QString const&)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::self()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::clear()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::grabKeys()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:Utils::reverseKey(QKeySequence const&)
+libKGlobalAccelD.so.0:Utils::matchSequences(QKeySequence const&, QList<QKeySequence> const&)
+libKGlobalAccelD.so.0:Utils::normalizeSequence(QKeySequence const&)
+libKGlobalAccelD.so.0:Utils::cropKey(QKeySequence const&, int)
+libKGlobalAccelD.so.0:KGlobalAccelD::actionList(QKeySequence const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::metaObject() const
+libKGlobalAccelD.so.0:KGlobalAccelD::getComponent(QString const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::shortcutKeys(QList<QString> const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::allComponents() const
+libKGlobalAccelD.so.0:KGlobalAccelD::defaultShortcut(QList<QString> const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::allMainComponents() const
+libKGlobalAccelD.so.0:KGlobalAccelD::defaultShortcutKeys(QList<QString> const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::globalShortcutsByKey(QKeySequence const&, KGlobalAccel::MatchType) const
+libKGlobalAccelD.so.0:KGlobalAccelD::scheduleWriteSettings() const
+libKGlobalAccelD.so.0:KGlobalAccelD::allActionsForComponent(QList<QString> const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::getGlobalShortcutsByKey(int) const
+libKGlobalAccelD.so.0:KGlobalAccelD::globalShortcutAvailable(QKeySequence const&, QString const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::isGlobalShortcutAvailable(int, QString const&) const
+libKGlobalAccelD.so.0:KGlobalAccelD::action(int) const
+libKGlobalAccelD.so.0:KGlobalAccelD::shortcut(QList<QString> const&) const
+libKGlobalAccelD.so.0:KGlobalAccelInterface::metaObject() const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::metaObject() const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getShortcutByKey(QKeySequence const&, KGlobalAccel::MatchType) const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::allComponentNames() const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getShortcutsByKey(QKeySequence const&, KGlobalAccel::MatchType) const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::componentsDbusPaths() const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::isShortcutAvailable(QKeySequence const&, QString const&, QString const&) const
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::dbusPath() const
