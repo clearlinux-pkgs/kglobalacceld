@@ -1,96 +1,35 @@
-libKGlobalAccelD.so.0:KGlobalAccelD::doRegister(QList<QString> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::unRegister(QList<QString> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::unregister(QString const&, QString const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::qt_metacall(QMetaObject::Call, int, void**)
-libKGlobalAccelD.so.0:KGlobalAccelD::qt_metacast(char const*)
-libKGlobalAccelD.so.0:KGlobalAccelD::setInactive(QList<QString> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::setShortcut(QList<QString> const&, QList<int> const&, unsigned int)
-libKGlobalAccelD.so.0:KGlobalAccelD::setShortcutKeys(QList<QString> const&, QList<QKeySequence> const&, unsigned int)
-libKGlobalAccelD.so.0:KGlobalAccelD::setForeignShortcut(QList<QString> const&, QList<int> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::blockGlobalShortcuts(bool)
-libKGlobalAccelD.so.0:KGlobalAccelD::yourShortcutsChanged(QList<QString> const&, QList<QKeySequence> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::setForeignShortcutKeys(QList<QString> const&, QList<QKeySequence> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::yourShortcutGotChanged(QList<QString> const&, QList<int> const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::activateGlobalShortcutContext(QString const&, QString const&)
-libKGlobalAccelD.so.0:KGlobalAccelD::init()
-libKGlobalAccelD.so.0:KGlobalAccelD::KGlobalAccelD(QObject*)
-libKGlobalAccelD.so.0:KGlobalAccelD::KGlobalAccelD(QObject*)
-libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
-libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
-libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
-libKGlobalAccelD.so.0:KGlobalAccelInterface::keyPressed(int)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::ungrabKeys()
-libKGlobalAccelD.so.0:KGlobalAccelInterface::keyReleased(int)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::qt_metacall(QMetaObject::Call, int, void**)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::qt_metacast(char const*)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::setRegistry(GlobalShortcutsRegistry*)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::axisTriggered(int)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::pointerPressed(QFlags<Qt::MouseButton>)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::grabKeys()
-libKGlobalAccelD.so.0:KGlobalAccelInterface::KGlobalAccelInterface(QObject*)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::KGlobalAccelInterface(QObject*)
-libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
-libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
-libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyPressed(int)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::processKey(int)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::ungrabKeys()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyReleased(int)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::qt_metacall(QMetaObject::Call, int, void**)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::qt_metacast(char const*)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::registerKey(QKeySequence const&, GlobalShortcut*)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::setDBusPath(QDBusObjectPath const&)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getComponent(QString const&)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::loadSettings()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::axisTriggered(int)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateConfig()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::unregisterKey(QKeySequence const&, GlobalShortcut*)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::writeSettings()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::pointerPressed(QFlags<Qt::MouseButton>)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createComponent(QString const&, QString const&)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateKHotkeys()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::refreshServices()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::GlobalShortcutsRegistry()
 libKGlobalAccelD.so.0:GlobalShortcutsRegistry::activateShortcuts()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::registerComponent(std::unique_ptr<Component, void (*)(Component*)>)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::deactivateShortcuts(bool)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::unregisterComponent(Component*)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::detectAppsWithShortcuts()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::scheduleRefreshServices()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createServiceActionComponent(QExplicitlySharedDataPointer<KService>)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createServiceActionComponent(QString const&)
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::self()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::axisTriggered(int)
 libKGlobalAccelD.so.0:GlobalShortcutsRegistry::clear()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::createServiceActionComponent(QExplicitlySharedDataPointer<KService>)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::deactivateShortcuts(bool)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::detectAppsWithShortcuts()
 libKGlobalAccelD.so.0:GlobalShortcutsRegistry::grabKeys()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::GlobalShortcutsRegistry()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::GlobalShortcutsRegistry()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyPressed(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::keyReleased(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::loadSettings()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateConfig()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::migrateKHotkeys()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::pointerPressed(QFlags<Qt::MouseButton>)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::processKey(int)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::refreshServices()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::scheduleRefreshServices()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::self()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::ungrabKeys()
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::unregisterComponent(Component*)
+libKGlobalAccelD.so.0:GlobalShortcutsRegistry::writeSettings()
 libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::~GlobalShortcutsRegistry()
-libKGlobalAccelD.so.0:Utils::reverseKey(QKeySequence const&)
-libKGlobalAccelD.so.0:Utils::matchSequences(QKeySequence const&, QList<QKeySequence> const&)
-libKGlobalAccelD.so.0:Utils::normalizeSequence(QKeySequence const&)
-libKGlobalAccelD.so.0:Utils::cropKey(QKeySequence const&, int)
-libKGlobalAccelD.so.0:KGlobalAccelD::actionList(QKeySequence const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::metaObject() const
-libKGlobalAccelD.so.0:KGlobalAccelD::getComponent(QString const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::shortcutKeys(QList<QString> const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::allComponents() const
-libKGlobalAccelD.so.0:KGlobalAccelD::defaultShortcut(QList<QString> const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::allMainComponents() const
-libKGlobalAccelD.so.0:KGlobalAccelD::defaultShortcutKeys(QList<QString> const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::globalShortcutsByKey(QKeySequence const&, KGlobalAccel::MatchType) const
-libKGlobalAccelD.so.0:KGlobalAccelD::scheduleWriteSettings() const
-libKGlobalAccelD.so.0:KGlobalAccelD::allActionsForComponent(QList<QString> const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::getGlobalShortcutsByKey(int) const
-libKGlobalAccelD.so.0:KGlobalAccelD::globalShortcutAvailable(QKeySequence const&, QString const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::isGlobalShortcutAvailable(int, QString const&) const
-libKGlobalAccelD.so.0:KGlobalAccelD::action(int) const
-libKGlobalAccelD.so.0:KGlobalAccelD::shortcut(QList<QString> const&) const
-libKGlobalAccelD.so.0:KGlobalAccelInterface::metaObject() const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::metaObject() const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getShortcutByKey(QKeySequence const&, KGlobalAccel::MatchType) const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::allComponentNames() const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::getShortcutsByKey(QKeySequence const&, KGlobalAccel::MatchType) const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::componentsDbusPaths() const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::isShortcutAvailable(QKeySequence const&, QString const&, QString const&) const
-libKGlobalAccelD.so.0:GlobalShortcutsRegistry::dbusPath() const
+libKGlobalAccelD.so.0:KGlobalAccelD::KGlobalAccelD(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelD::blockGlobalShortcuts(bool)
+libKGlobalAccelD.so.0:KGlobalAccelD::init()
+libKGlobalAccelD.so.0:KGlobalAccelD::~KGlobalAccelD()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::KGlobalAccelInterface(QObject*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::axisTriggered(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::grabKeys()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::keyPressed(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::keyReleased(int)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::pointerPressed(QFlags<Qt::MouseButton>)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::setRegistry(GlobalShortcutsRegistry*)
+libKGlobalAccelD.so.0:KGlobalAccelInterface::ungrabKeys()
+libKGlobalAccelD.so.0:KGlobalAccelInterface::~KGlobalAccelInterface()
