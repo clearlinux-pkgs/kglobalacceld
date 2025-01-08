@@ -9,7 +9,7 @@
 #
 Name     : kglobalacceld
 Version  : 6.2.5
-Release  : 19
+Release  : 20
 URL      : https://download.kde.org/stable/plasma/6.2.5/kglobalacceld-6.2.5.tar.xz
 Source0  : https://download.kde.org/stable/plasma/6.2.5/kglobalacceld-6.2.5.tar.xz
 Source1  : https://download.kde.org/stable/plasma/6.2.5/kglobalacceld-6.2.5.tar.xz.sig
